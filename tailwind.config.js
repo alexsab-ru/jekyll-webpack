@@ -1,6 +1,7 @@
 module.exports = {
 	content: [
-		'_site/**/*.html'
+		'./index.html',
+		'./_includes/**/*.html',
 	],
 	theme: {
 		container: {
