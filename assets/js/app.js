@@ -16,7 +16,7 @@
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _test__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./test */ \"./src/test.js\");\n/* harmony import */ var _test__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_test__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\nconsole.log(\"APP\");\r\n\n\n//# sourceURL=webpack://jekyll-vite-2/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _test__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./test */ \"./src/test.js\");\n/* harmony import */ var _test__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_test__WEBPACK_IMPORTED_MODULE_0__);\n// import './style.css';\r\n\r\n\r\n\r\nconsole.log(\"APP\");\n\n//# sourceURL=webpack://jekyll-vite-2/./src/index.js?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _tes
   \*********************/
 /***/ (() => {
 
-eval("console.log(\"TEST\");\n\n//# sourceURL=webpack://jekyll-vite-2/./src/test.js?");
+eval("console.log(\"TEST MODULE\");\n\n//# sourceURL=webpack://jekyll-vite-2/./src/test.js?");
 
 /***/ })
 
